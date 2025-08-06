@@ -1,0 +1,20 @@
+title: "V. Krishna Sameera"
+email: krishnasameerav@gmail.com
+description: >-
+  Resume website of V. Krishna Sameera. Contains experience, education, projects, and more.
+baseurl: "" # keep this empty unless using a subpath
+url: "https://yourusername.github.io" # replace with your GitHub Pages URL
+theme: minima
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Navigation links
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - publications.md
+
